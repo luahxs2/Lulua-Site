@@ -1,0 +1,34 @@
+body {
+    color: rgb(106, 11, 150);
+    background: linear-gradient(rgb(0, 0, 0),rgb(163, 61, 217));
+    margin: 5%;
+    font-family: "Nunito",cursive;
+}
+
+header {
+    border-bottom: solid 2px rgb(221, 227, 31);
+    padding: 10px;
+    font-size: 32px;
+    color: rgb(195, 148, 232);
+    border-bottom: rgb(125, 226, 162);
+}
+div{
+    color: rgb(255, 255, 255);
+    font-style: unset;
+    font-size: 10;
+}
+
+.chamada{
+background: linear-gradient(black,rgb(109, 45, 192));
+border: solid 1px rgb(188, 97, 233);
+padding-top: 10px;
+padding-bottom: 20px;
+display: flex;
+justify-content: center;
+}
+
+.videosimagens h2 {
+color: blue;
+font-size: 30px;
+text-align: center;
+}
